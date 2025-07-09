@@ -26,4 +26,6 @@ Endoscopic imaging is crucial in early detection of GI diseases. This project au
 2. Set the current directory to this project folder
 3. Run: main.m file
 
+# output
+![Sample Output](output.png)
 
